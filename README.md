@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Object Detection**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python Programming**
 
 - 📫 How to reach me **funghang.limbu.3@gmail.com**
 
