@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Funghang Limbu</h1>
-<h3 align="center">A passionate python programmer from Nepal</h3>
 <img align="right" alt="Coding" width ="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif""">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funghang&label=Profile%20views&color=0e75b6&style=flat" alt="funghang" /> </p>
 
