@@ -2,8 +2,8 @@
 <img align="right" alt="Coding" width ="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif""">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funghang&label=Profile%20views&color=0e75b6&style=flat" alt="funghang" /> </p>
 
-- 🔭 I’m currently working on **RAG**
-- 📫 How to reach me **funghang.limbu.3@gmail.com**
+
+- How to reach me **funghang.limbu.3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
